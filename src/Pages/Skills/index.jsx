@@ -16,7 +16,7 @@ function Skills() {
                 <img src={tailwind} alt="tailwind logo"  className='w-32 inline-block absolute bottom-4 left-1/2 opacity-70'/>
                 <span className='absolute top-28 left-20 sm:top-1/4 sm:left-12 lg:text-3xl md:text-xl sm:text-lg font-bold opacity-70'>HTML5</span>
                 <span className='absolute top-48 left-1/4 sm:top-1/2 lg:text-5xl md:text-2xl sm:text-xl font-bold opacity-50'>ReactJs</span>
-                <span className='absolute top-96 right-48 md:top-1/2 sm:left-2/3 text-2xl md:text-xl sm:text-lg font-bold opacity-70'>CSS3</span>
+                <span className='absolute top-96 right-48 md:top-1/2 sm:left-3/4 text-2xl md:text-xl sm:text-lg font-bold opacity-70'>CSS3</span>
                 <span className='absolute top-28 right-20 sm:top-40 sm:right-10 text-2xl md:text-xl sm:text-lg font-bold opacity-60'>NodeJs</span>
                 <span className='absolute bottom-32 right-96 md:bottom-80 sm:right-10 sm:bottom-36 text-2xl md:text-xl sm:text-lg font-bold opacity-90'>TailwindCSS</span>
                 <span className='absolute bottom-28 left-20 text-xl md:text-xl sm:text-lg font-bold opacity-50'>Figma</span>
