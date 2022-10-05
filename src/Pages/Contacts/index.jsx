@@ -77,7 +77,7 @@ function Contacts(){
                   </div>
                   <div class="mb-6">
                      <textarea
-                        rows="4"
+                        rows="3"
                         placeholder="Your Message"
                         class="
                         w-full
